@@ -1,5 +1,7 @@
 title: Karthik Chauhan
 logo: assets/img/logo.jpg
-description: Junior Software Developer.
+description: Junior Software Developer at Zee Learn Limited | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics
 show_downloads: false
 theme: jekyll-theme-minimal
+
+include: ["_assets", "_data"]
