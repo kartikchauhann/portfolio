@@ -7,4 +7,4 @@ theme: jekyll-theme-minimal
 
 
 
-include: ["_assets", "_data"]
+include: ["_assets"]
