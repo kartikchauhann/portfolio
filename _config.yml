@@ -7,4 +7,4 @@ theme: jekyll-theme-minimal
 linkedin: www.linkedin.com/in/karthikchauhan
 
 
-include: ["_assets", "_data"]
+include: ["_assets", "_data",-"layouts"]
