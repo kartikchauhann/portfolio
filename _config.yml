@@ -4,5 +4,9 @@ description: Junior Software Developer at Zee Learn Limited | M.Sc in Big Data A
 show_downloads: false
 theme: jekyll-theme-minimal
 
-###here is my LinkedIn
+linkedin: www.linkedin.com/in/karthikchauhan
+<p>Here is my <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a>.</p>
+
+
+
 include: ["_assets", "_data"]
