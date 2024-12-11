@@ -4,7 +4,7 @@ description: Junior Software Developer at Zee Learn Limited | M.Sc in Big Data A
 show_downloads: false
 theme: jekyll-theme-minimal
 
-linkedin: www.linkedin.com/in/karthikchauhan
 
 
-include: ["_assets", "_data",-"layouts"]
+
+include: ["_assets", "_data"]
