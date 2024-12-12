@@ -5,7 +5,7 @@ description: >
   <strong>Education:</strong><br>
   Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.
   
-repository: repository: "Static text replacing the GitHub link"
+repository: https://kartikchauhann.github.io/portfolio/
 footer_text: "This project is maintained by Karthik Chauhan"
 
 theme: jekyll-theme-minimal
