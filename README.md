@@ -16,6 +16,7 @@ Internship
 January 2024 - October 2024
 
 ### Skills 
+<img src="assets/img/download.jpeg" width="40px" style="vertical-align: middle;"><img src="assets/img/mysql.png" width="40px" style="vertical-align: middle;">
 
 
 
