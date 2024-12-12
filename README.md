@@ -4,6 +4,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/karthikchauhan)<a href="https:
 
 ### Education
 Master's degree in Big Data Analytics from St. Xavier's College, Mumbai <img src="assets/img/St._Xavier's_College,_Mumbai_crest.png" width="20px" style="vertical-align: middle;">
+
 Bachelor's degree in Computer Science from University of Mumbai <img src="assets/img/unm.jpeg" width="30px" style="vertical-align: middle;">
 
 ### Experience
@@ -16,8 +17,7 @@ Internship
 January 2024 - October 2024
 
 ### Skills 
-<img src="assets/img/download.jpeg" width="40px" style="vertical-align: middle;"><img src="assets/img/mysql.png" width="40px" style="vertical-align: middle;">
-
-
-
+<img src="assets/img/download.jpeg" width="40px" style="vertical-align: middle;"><img src="assets/img/mysql.png" width="40px" style="vertical-align: middle;"><img src="assets/img/excel.jpeg" width="40px" style="vertical-align: middle;"><img src="assets/img/power.png" width="40px" style="vertical-align: middle;"><img src="assets/img/tab.png" width="40px" style="vertical-align: middle;"><img src="assets/img/zoho.png" width="40px" style="vertical-align: middle;"><img src="assets/img/aws.png" width="40px" style="vertical-align: middle;"><img src="assets/img/git.png" width="40px" style="vertical-align: middle;"><img src="assets/img/ml.jpg" width="40px" style="vertical-align: middle;"><img src="assets/img/dl.png" width="40px" style="vertical-align: middle;"><img src="assets/img/pandas.png" width="40px" style="vertical-align: middle;"><img src="assets/img/num.png" width="40px" style="vertical-align: middle;"><img src="assets/img/keras.png" width="40px" style="vertical-align: middle;"><img src="assets/img/tf.png" width="40px" style="vertical-align: middle;"><img src="assets/img/skit.png" width="40px" style="vertical-align: middle;"><img src="assets/img/download.png" width="40px" style="vertical-align: middle;"><img src="assets/img/PyTorch_logo_black.svg
+.png" width="40px" style="vertical-align: middle;"><img src="assets/img/download.jpeg" width="40px" style="vertical-align: middle;">
+<img src="assets/img/vs.png" width="40px" style="vertical-align: middle;"><img src="assets/img/jup.png" width="40px" style="vertical-align: middle;"><img src="assets/img/colab.png" width="40px" style="vertical-align: middle;">
 
