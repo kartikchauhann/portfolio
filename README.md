@@ -15,4 +15,8 @@ November 2024 - Present 2 mos
 Internship
 January 2024 - October 2024
 
+### Skills 
+
+
+
 
