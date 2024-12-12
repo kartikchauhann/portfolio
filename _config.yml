@@ -3,20 +3,13 @@ title: "Karthik Chauhan"
 description: >
   Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br><br>
 
-  **Education:**<br>
+  &bold; Education:<br>
   - Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.<br>
   - Bachelor’s degree in Computer Science from University of Mumbai.<br><br>
 
-  **Experience:**<br>
-  - Junior Software Developer at Zee Learn Limited<br>
-    November 2024 - Present<br>
-  - Data Analyst & Software Developer at Zee Learn Limited<br>
-    Internship January 2024 - October 2024
 
 repository: false  # Disables the link to the repository
 footer_text: "This project is maintained by Karthik Chauhan"
 theme: jekyll-theme-minimal
 include:
   - "_assets"
-email_logo: "assets/img/email-icon.png"
-email_link: "mailto:your-email@example.com"
