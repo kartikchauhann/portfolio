@@ -1,14 +1,10 @@
-title: Karthik Chauhan
-logo: assets/img/logo.jpg
+title: "Karthik Chauhan"
+logo: "assets/img/logo.jpg"
 description: >
   Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br>
   <strong>Education:</strong><br>
   Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.
-  
-repository: https://kartikchauhann.github.io/portfolio/
+repository: false  # Disables the link to the repository
 footer_text: "This project is maintained by Karthik Chauhan"
-
 theme: jekyll-theme-minimal
 include: ["_assets"]
-
-
