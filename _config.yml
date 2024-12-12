@@ -1,9 +1,10 @@
 title: Karthik Chauhan
 logo: assets/img/logo.jpg
-description: |
-  Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.  
-  **Education**:  
+description: >
+  Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br>
+  <strong>Education:</strong><br>
   Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.
+  
 show_downloads: false
 theme: jekyll-theme-minimal
 
