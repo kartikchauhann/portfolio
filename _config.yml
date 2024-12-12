@@ -1,5 +1,6 @@
 title: "Karthik Chauhan"
 #logo: "assets/img/logo.jpg"
+email: "karthikchauhan@outlook.in"
 description: >
      Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br><br>
     
@@ -13,7 +14,7 @@ description: >
     &bull; Data Analyst & Software Developer at Zee Learn Limited<br>
     Internship January 2024 - October 2024
     
-  repository: false  # Disables the link to the repository
-  footer_text: "This project is maintained by Karthik Chauhan"
-  theme: jekyll-theme-minimal
-  include: ["_assets"]
+repository: false  # Disables the link to the repository
+footer_text: "This project is maintained by Karthik Chauhan"
+theme: jekyll-theme-minimal
+include: ["_assets"]
