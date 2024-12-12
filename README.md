@@ -4,7 +4,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/karthikchauhan)<a href="https:
 
 ### Education
 Master's degree in Big Data Analytics from St. Xavier's College, Mumbai <img src="assets/img/St._Xavier's_College,_Mumbai_crest.png" width="20px" style="vertical-align: middle;">
-Bachelor's degree in Computer Science from University of Mumbai 
+Bachelor's degree in Computer Science from University of Mumbai <img src="assets/img/unm.jpeg" width="20px" style="vertical-align: middle;">
 
 ### Experience
 
