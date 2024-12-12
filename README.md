@@ -7,10 +7,10 @@ MSc in Big Data Analytics from St. Xavier's College, Mumbai <img src="assets/img
 
 ### Experience
 
-#### Junior Software Developer at Zee Learn Limited  <img src="assets/img/zeelearnlogo_ne.png" width="20px" style="vertical-align: middle;">
+#### Junior Software Developer at Zee Learn Limited  <img src="assets/img/zeelearnlogo_ne.png" width="40px" style="vertical-align: middle;">
 November 2024 - Present 2 mos
 
-#### Data Analyst & Software Developer at Zee Learn Limited <img src="assets/img/zeelearnlogo_ne.png" width="20px" style="vertical-align: middle;">
+#### Data Analyst & Software Developer at Zee Learn Limited <img src="assets/img/zeelearnlogo_ne.png" width="40px" style="vertical-align: middle;">
 Internship
 January 2024 - October 2024
 
