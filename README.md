@@ -8,7 +8,7 @@ Zee Learn Ltd <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" sty
   _Nov 2024 – Present • 2 mos_
 - #### Data Analyst & Software Developer (Internship)  
   _Jan 2024 – Oct 2024 • 10 mos_
-
+  
 ### Education:
 - Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.<br>
 - Bachelor’s degree in Computer Science from University of Mumbai.
