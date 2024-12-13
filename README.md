@@ -1,8 +1,7 @@
 # Bridging Software Development and Data Analytics
 
-
 ### Experience:
-**Zee Learn Ltd**  
+**Zee Learn Ltd** <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" style="width: 24px; height: 24px; margin-right: 10px;">  
 - **Junior Software Developer**  
   _Nov 2024 – Present • 2 mos_
 - **Data Analyst & Software Developer (Internship)**  
