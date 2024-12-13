@@ -8,9 +8,7 @@
 &bull; Internship
        January 2024 - October 2024
        
-### Education:
-- Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.
-- Bachelor’s degree in Computer Science from University of Mumbai.
+### Education:<br>- Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.<br>- Bachelor’s degree in Computer Science from University of Mumbai.
 
 
 ### Skills 
