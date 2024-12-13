@@ -3,8 +3,6 @@
 
 ### Experience:
 **Zee Learn Ltd**  
-_Mumbai Metropolitan Region • On-site_  
-**1 yr**  
 - **Junior Software Developer**  
   _Nov 2024 – Present • 2 mos_
 - **Data Analyst & Software Developer (Internship)**  
