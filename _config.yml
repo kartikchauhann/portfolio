@@ -3,7 +3,7 @@ title: "Karthik Chauhan"
 description: >
   Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br><br>
 
-  <address>
+  <address style="display: flex; gap: 8px; align-items: center;">
     <a href="mailto:karthikchauhan@outlook.in">
       <img src="assets/img/email-icon.jpeg" alt="Email" style="width: 24px; height: 24px;">
     </a>
