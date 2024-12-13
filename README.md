@@ -1,14 +1,14 @@
 # Bridging Software Development and Data Analytics
 
 
-### Experience
+### Experience:<br>
 #### Junior Software Developer at Zee Learn Limited  
 &bull; November 2024 - Present 2 mos
-#### Data Analyst & Software Developer at Zee Learn Limited <img src="assets/img/zeelearnlogo_ne.png" width="40px" style="vertical-align: middle;">
+#### Data Analyst & Software Developer at Zee Learn Limited 
 &bull; Internship
        January 2024 - October 2024
 
-### Education:
+### Education:<br>
   &bull; Master's degree in Big Data Analytics from St. Xavier's College, Mumbai.<br>
   &bull; Bachelor’s degree in Computer Science from University of Mumbai.<br><br>
 
