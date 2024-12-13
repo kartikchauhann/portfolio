@@ -1,8 +1,9 @@
 # Bridging Software Development and Data Analytics
 
 ### Experience:
-#### <span style="display: inline-flex; align-items: center;">
-Zee Learn Ltd <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" style="width: 40px; height: 40px; margin-left: 10px;">
+#### <span style="display: inline-flex; align-items: center; gap: 8px;">
+  Zee Learn Ltd 
+  <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" style="width: 40px; height: 40px; vertical-align: middle;">
 </span>  
 - #### Junior Software Developer  
   _Nov 2024 – Present • 2 mos_
