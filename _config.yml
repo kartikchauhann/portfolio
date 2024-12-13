@@ -1,8 +1,7 @@
 title: "Karthik Chauhan"
-logo: 
-  src: "assets/img/IMG_9306-modified.png"
-  width: 24px
-  height: 24px
+logo: "assets/img/IMG_9306-modified.png"
+logo_width: "24px"   # If needed, separate width and height
+logo_height: "24px"
 description: >
   Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br><br>
 
