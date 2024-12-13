@@ -3,7 +3,7 @@
 
 ### Experience:
 #### Junior Software Developer at Zee Learn Limited  
-- November 2024 - Present 2 mos
+- November 2024 - Present 2 mos <br>
 #### Data Analyst & Software Developer at Zee Learn Limited 
 - Internship 
   January 2024 - October 2024
