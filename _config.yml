@@ -2,7 +2,6 @@ title: "Karthik Chauhan"
 logo: "assets/img/IMG_9306.jpg"
 description: >
   Data Scientist | Data Analyst | Software Developer | M.Sc in Big Data Analytics | Bridging Software Development and Data Analytics.<br><br>
-
   <address style="display: flex; gap: 6px; align-items: center;">
     <a href="mailto:karthikchauhan@outlook.in">
       <img src="assets/img/email-icon.jpeg" alt="Email" style="width: 24px; height: 24px;">
@@ -11,8 +10,6 @@ description: >
       <img src="assets/img/lnkin.png" alt="LinkedIn" style="width: 40px; height: 40px;">
     </a>
   </address><br>
-
-
 repository: false  # Disables the link to the repository
 footer_text: "This project is maintained by Karthik Chauhan"
 theme: jekyll-theme-minimal
