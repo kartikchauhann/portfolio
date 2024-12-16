@@ -12,6 +12,7 @@
 - Bachelor’s degree in Computer Science.
 
 ### Achievments
+- Revolutionized the Kidzee admission process by automating CRM integration and analytics, boosting operational efficiency by over **70% and enabling seamless data-driven decision-making.**
 - Enhanced business decision-making by **35% with the creation of interactive dashboards and reports.**
 - Informed strategic decision-making with a **40% accuracy improvement in sales trend predictions.**
 - Streamlined operations and improved customer interaction by **25% with a customizable chatbot.**
