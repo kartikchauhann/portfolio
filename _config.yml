@@ -11,6 +11,9 @@ description: >
     </a>
   </address><br>
 repository: false  # Disables the link to the repository
+github:
+  is_project_page: false
+
 footer_text: "This project is maintained by Karthik Chauhan"
 theme: jekyll-theme-minimal
 include: ["_assets"]
