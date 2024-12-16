@@ -12,7 +12,7 @@
 - Bachelor’s degree in Computer Science.
 
 ### Achievments
-- Enhanced business decision-making by 35% with the creation of interactive dashboards and reports.
+- Enhanced business decision-making by **35% with the creation of interactive dashboards and reports.**
 - Informed strategic decision-making with a 40% accuracy improvement in sales trend predictions.
 - Streamlined operations and improved customer interaction by 25% with a customizable chatbot.
 - Improved the file management efficiency and accuracy by 45% with automated file uploads to AWS S3.
