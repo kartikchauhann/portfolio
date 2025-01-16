@@ -2,9 +2,9 @@
 
 ### Experience:
 #### Zee Learn Ltd <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" style="width: 50px; height: auto; vertical-align: middle;">
-- #### Junior Software Developer  
+- #### Data Analyst  
   _Nov 2024 – Present • 2 mos_ 
-- #### Data Analyst & Software Developer (Internship)  
+- #### Data Analyst (Internship)  
   _Jan 2024 – Oct 2024 • 10 mos_
   
 ### Education:
