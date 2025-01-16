@@ -12,6 +12,7 @@
 - Bachelor’s degree in Computer Science.
 
 ### Achievments
+- Integrated Zoho CRM APIs with the database,achieving an **80% improvement in the efficiency ofdata analysis for Kidzee admissions with accurateand actionable insights.**
 - Revolutionized the Kidzee admission process by automating CRM integration and analytics, boosting operational efficiency by over **70% and enabling seamless data-driven decision-making.**
 - Enhanced business decision-making by **35% with the creation of interactive dashboards and reports.**
 - Informed strategic decision-making with a **40% accuracy improvement in sales trend predictions.**
