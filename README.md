@@ -1,4 +1,4 @@
-# Bridging Software Development and Data Analytics
+# Transforming Data into Business Insights
 
 ### Experience:
 #### Zee Learn Ltd <img src="assets/img/zeelearnlogo_ne.png" alt="Zee Learn Logo" style="width: 50px; height: auto; vertical-align: middle;">
